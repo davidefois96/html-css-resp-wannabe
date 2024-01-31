@@ -135,7 +135,7 @@ img {
 
  @media screen and (max-width:480px) {
      
-    .row{flex-direction: column;}}
+    .row{flex-direction: column;}
 
      
     .steps.text-center , .why-us {margin-bottom: 0;}
@@ -152,4 +152,6 @@ img {
     
     }
 
+    
+}
     
